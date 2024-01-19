@@ -27,5 +27,5 @@ e-Commerce Platform that Provide an marketplace for both Buyers and Sellers
 
 ### Links of all Services
 
-- **Frontend:**
+- **Frontend:**  https://github.com/Priyanshushekhar77/shoptik_frontend
 - **Backend:** 
