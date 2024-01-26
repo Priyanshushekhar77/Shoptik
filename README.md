@@ -16,7 +16,6 @@ e-Commerce Platform that Provide an marketplace for both Buyers and Sellers
 - React Router v6
 - JSON-server for front-end testing
 - MongoDB for Database
-- Mongoose v7 as ODM
 - REST API using Express
 - Authentication using Passport JS
 - API Authentication using Passport JWT
@@ -28,4 +27,4 @@ e-Commerce Platform that Provide an marketplace for both Buyers and Sellers
 ### Links of all Services
 
 - **Frontend:**  https://github.com/Priyanshushekhar77/shoptik_frontend
-- **Backend:** 
+- **Backend:**   https://github.com/Priyanshushekhar77/shoptik_backend
